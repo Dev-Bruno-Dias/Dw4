@@ -1,0 +1,30 @@
+body{
+justify-items: center;
+align-items: center;
+}
+.maior{
+    height: 450px;
+    width: 350px;
+    background-color:gray;
+    display: table;
+}
+.nome{
+  height: 30px;
+  width: 20px;
+}
+.User{
+    height: 30px;
+    width: 20px;
+  }
+.gmail{
+    height: 30px;
+    width: 20px;
+  }
+.senha{
+    height: 30px;
+    width: 20px;
+  }
+#cadastrar{
+    height: 30px;
+    width: 20px; 
+}
